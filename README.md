@@ -6,25 +6,24 @@ I'm a passionate marine biology enthusiast who loves exploring new ideas in elas
 
 ### 🔬 Research Interests
 - Elasmobranch biology
-- Animal behavior
+- Animal behaviour
 - Conservation strategies
 
 ### 🛠️ Skills & Tools
-- Programming: R, Python
+- Programming: R
 - Tools: Statistical analysis, GIS mapping
-- Other: Field research, Data collection
+- Other: Field research, Data collection, Histology techniques
 
 ### 📚 Current Projects
-- Investigating biomechanical constraints vs. predator evasion in whirligig beetles
-- Exploring shark biology and conservation efforts
+- Pending
 
 ### 🌱 Learning & Goals
 I'm currently learning advanced statistical modeling and aiming to contribute to marine conservation research.
 
+### 🎨 Thematic Image
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
-
